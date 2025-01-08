@@ -2,7 +2,7 @@ version: "4.0"
 services:
   web:
     build: .
-    container_name: XPLOADER-BOT
+    container_name: X-BOT
     ports:
       - "3000:3000"
     restart: always
